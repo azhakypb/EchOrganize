@@ -17,7 +17,7 @@ public class HelloWorldStreamHandler extends SkillStreamHandler {
                         new HelpIntentHandler(),
                         new LaunchRequestHandler(),
                         new SessionEndedRequestHandler())
-                .withSkillId("amzn1.ask.skill.b6e476e2-85f5-4631-b703-fef4494192a4")
+                .withSkillId("amzn1.ask.skill.57f21a59-7bb0-494e-966a-3a10af99f6fa")
                 .build();
     }
     public HelloWorldStreamHandler() {

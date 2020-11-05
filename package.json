@@ -1,23 +1,11 @@
 {
-  "name": "EchOrganize",
+  "name": "skill-sample-nodejs-premium-facts",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "In Skill Purchasing sample skill",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sbeisner/EchOrganize.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sbeisner/EchOrganize/issues"
-  },
-  "homepage": "https://github.com/sbeisner/EchOrganize#readme",
   "dependencies": {
-    "alexa-app": "^4.2.3"
+    "ask-sdk": "^2.0.1"
   }
 }
